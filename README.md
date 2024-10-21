@@ -26,4 +26,5 @@ Have a cool Python project or enhancement idea? I’d love to see your contribut
 ## 📫 Connect With Me
 
 If you have any questions or feedback, don’t hesitate to reach out. Happy coding!
+
 [E-Mail] redragoncoder.contact@proton.me
