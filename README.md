@@ -23,6 +23,10 @@ Hey there, Python enthusiasts! 👋 Welcome to my collection of exciting Python 
 
 Have a cool Python project or enhancement idea? I’d love to see your contributions! Feel free to fork the repo and share your work!
 
+## ✏️ Notes
+TG - Turtle Graphics
+TK - Tkinter
+
 ## 📫 Connect With Me
 
 If you have any questions or feedback, don’t hesitate to reach out. Happy coding!
