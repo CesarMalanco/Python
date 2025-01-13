@@ -1,8 +1,6 @@
 # Author: reDragonCoder
 # Last update: 21/11/2024
 
-# P.S. Check my bot at https://x.com/BotTechfx
-
 import tweepy
 
 # Access to Twitter account (add here your Twitter API keys)
